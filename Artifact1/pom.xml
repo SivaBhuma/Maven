@@ -6,6 +6,7 @@
   <artifactId>Artifact1</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
+  <finalName>Test-devops88</finalName>
   <name>Artifact1</name>
   <url>http://maven.apache.org</url>
 
